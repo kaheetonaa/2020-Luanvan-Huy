@@ -18,7 +18,7 @@
 \usepackage{times}
 
 % Dùng để set margin
-\usepackage[top=3.5cm,inner=3.5cm,outer=2cm,bottom=3cm,headheight=120pt]{geometry}		
+\usepackage{geometry}	
 
 \usepackage{graphicx}			% Dùng để chèn hình ảnh
 \graphicspath{ {images/} }		% Folder chứa hình ảnh
@@ -46,7 +46,7 @@
 \titleformat{\section}[block]{\bfseries}{\thesection.}{1em}{} 
 \titleformat{\subsection}[block]{\hspace{2em}}{\thesubsection}{1em}{}
 
-
+\geometry{a4paper, top=3.5cm, inner=3.5cm, outer=2cm, bottom=3cm, headheight=120pt}
 
 
 % Định dạng cho header của bảng
@@ -94,8 +94,10 @@
 \lfoot{\fontsize{10}{12} \selectfont Nguyễn Quang Huy}							% Footer bên trái
 
 \begin{document}
+\newgeometry{a4paper, top=3.5cm, inner=3cm, outer=3cm, bottom=3cm, headheight=120pt}
 \subfile{bia-ngoai}		% Gọi file bìa ngoài
 \subfile{bia-trong}		% Gọi file bìa trong
+\restoregeometry
 
 \pagenumbering{roman}	% Kiểu số trang: i, ii, iii, iv, v,...
 
