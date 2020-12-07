@@ -34,6 +34,14 @@
 \usepackage{amsmath}								% Dùng để chèn các công thức Toán
 \usepackage{makecell}								% Dùng để làm nổi bật header của bảng
 \usepackage{float}								% Dùng để thiết đặt thuộc tính H (here) cho ảnh
+\usepackage{titlesec}					%chỉnh font cho tiêu đề
+
+\titleformat{\chapter}
+[display]
+{\large}
+{}{0.5em}{}
+
+
 
 % Định dạng cho header của bảng
 \renewcommand\theadfont{\bfseries}
@@ -85,10 +93,7 @@
 
 \pagenumbering{roman}	% Kiểu số trang: i, ii, iii, iv, v,...
 
-\chapter*{NHẬN XÉT CỦA GIẢNG VIÊN}
-\subfile{chapters/nhan-xet-gv}
-
-\chapter*{LỜI CẢM ƠN}
+\chapter{LỜI CẢM ƠN}
 \subfile{chapters/loi-cam-on}
 
 \tableofcontents
