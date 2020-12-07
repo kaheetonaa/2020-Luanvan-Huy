@@ -34,6 +34,20 @@
 \usepackage{amsmath}								% Dùng để chèn các công thức Toán
 \usepackage{makecell}								% Dùng để làm nổi bật header của bảng
 \usepackage{float}								% Dùng để thiết đặt thuộc tính H (here) cho ảnh
+\usepackage{titlesec}					%chỉnh font cho tiêu đề
+
+\titleformat{\chapter}
+[display]
+{\large}
+{}{0.5em}{}
+
+\renewcommand\thesection{\arabic{section}} 
+\renewcommand\thesubsection{\thesection.\arabic{subsection}} 
+\titleformat{\section}[block]{\bfseries}{\thesection.}{1em}{} 
+\titleformat{\subsection}[block]{\hspace{2em}}{\thesubsection}{1em}{}
+
+
+
 
 % Định dạng cho header của bảng
 \renewcommand\theadfont{\bfseries}
@@ -74,10 +88,10 @@
 % \fancyfoot[RE]{\fontsize{10}{10} \selectfont Họ tên sinh viên - Mã SV}				% Footer mép trong
 
 % Header và footer nếu in 1 mặt
-\rhead{\fontsize{10}{12} \selectfont Giảng viên hướng dẫn:\\TS. ABCXYZ}					% Header bên phải
-\lhead{\fontsize{10}{12} \selectfont Đề tài:\\Tên đề tài}									% Header bên trái
+\rhead{\fontsize{10}{12} \selectfont Giảng viên hướng dẫn:\\TS. }					% Header bên phải
+\lhead{\fontsize{10}{12} \selectfont Đề tài:\\}									% Header bên trái
 \rfoot{\fontsize{10}{12} \selectfont \thepage}											% Footer bên phải
-\lfoot{\fontsize{10}{12} \selectfont Họ tên sinh viên - Mã SV}							% Footer bên trái
+\lfoot{\fontsize{10}{12} \selectfont Nguyễn Quang Huy}							% Footer bên trái
 
 \begin{document}
 \subfile{bia-ngoai}		% Gọi file bìa ngoài
@@ -85,11 +99,11 @@
 
 \pagenumbering{roman}	% Kiểu số trang: i, ii, iii, iv, v,...
 
-\chapter*{NHẬN XÉT CỦA GIẢNG VIÊN}
-\subfile{chapters/nhan-xet-gv}
-
-\chapter*{LỜI CẢM ƠN}
+\chapter{LỜI CẢM ƠN}
 \subfile{chapters/loi-cam-on}
+
+\chapter{LỜI CAM ĐOAN}
+\subfile{chapters/loi-cam-doan}
 
 \tableofcontents
 \listoffigures
@@ -97,11 +111,20 @@
 
 \clearpage
 \pagenumbering{arabic}			% Kiểu số trang: 1, 2, 3,...
-\chapter{Tiêu đề chương 1}
+\chapter{GIỚI THIỆU}
+\subfile{chapters/gioi-thieu}
+
+\chapter{CHƯƠNG 1: NGHIÊN CỨU LÝ THUYẾT}
 \subfile{chapters/chapter01}	% Gọi file chương 1, tương tự gọi các chương khác
 
-\chapter{Tiêu đề chương 2}
+\chapter{CHƯƠNG 2: XÃ THUỴ DƯƠNG, KỲ VỌNG VÀ THỰC TẾ HIỆN TRẠNG }
 \subfile{chapters/chapter02}
+
+\chapter{CHƯƠNG 3: CƠ SỞ THỰC TIỄN VÀ LÝ LUẬN }
+\subfile{chapters/chapter03}
+
+\chapter{CHƯƠNG 4: CHIẾN LƯỢC VÀ GIẢI PHÁP }
+\subfile{chapters/chapter04}
 
 \bibliography{mybib}{}
 \bibliographystyle{plain}
