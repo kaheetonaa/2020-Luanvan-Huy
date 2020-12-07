@@ -41,6 +41,12 @@
 {\large}
 {}{0.5em}{}
 
+\renewcommand\thesection{\arabic{section}} 
+\renewcommand\thesubsection{\thesection.\arabic{subsection}} 
+\titleformat{\section}[block]{\bfseries}{\thesection.}{1em}{} 
+\titleformat{\subsection}[block]{\hspace{2em}}{\thesubsection}{1em}{}
+
+
 
 
 % Định dạng cho header của bảng
