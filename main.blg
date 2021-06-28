@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: mybib.bib
+Warning--to sort, need author, editor, or key in leed_v4
+Warning--empty author and editor in leed_v4
+You've used 7 entries,
+            2118 wiz_defined-function locations,
+            527 strings with 5213 characters,
+and the built_in function-call counts, 1637 in all, are:
+= -- 150
+> -- 55
+< -- 1
++ -- 24
+- -- 16
+* -- 71
+:= -- 261
+add.period$ -- 16
+call.type$ -- 7
+change.case$ -- 28
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 76
+empty$ -- 160
+format.name$ -- 16
+if$ -- 360
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 3
+newline$ -- 33
+num.names$ -- 12
+pop$ -- 52
+preamble$ -- 1
+purify$ -- 22
+quote$ -- 0
+skip$ -- 71
+stack$ -- 0
+substring$ -- 51
+swap$ -- 20
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 26
+warning$ -- 2
+while$ -- 14
+width$ -- 8
+write$ -- 64
+(There were 2 warnings)

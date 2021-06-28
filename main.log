@@ -1,0 +1,1863 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.27)  27 JUN 2021 23:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extreport.cls
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen134
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/vietnam.sty
+Package: vietnam 2009/07/12 v1.3 support for Vietnamese
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+Now handling font encoding T5 ...
+... processing UTF-8 mapping file for font encoding T5
+
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5enc.dfu
+File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+01A0 (decimal 416)
+   defining Unicode char U+01A1 (decimal 417)
+   defining Unicode char U+01AF (decimal 431)
+   defining Unicode char U+01B0 (decimal 432)
+   defining Unicode char U+1EA0 (decimal 7840)
+   defining Unicode char U+1EA1 (decimal 7841)
+   defining Unicode char U+1EA2 (decimal 7842)
+   defining Unicode char U+1EA3 (decimal 7843)
+   defining Unicode char U+1EA4 (decimal 7844)
+   defining Unicode char U+1EA5 (decimal 7845)
+   defining Unicode char U+1EA6 (decimal 7846)
+   defining Unicode char U+1EA7 (decimal 7847)
+   defining Unicode char U+1EA8 (decimal 7848)
+   defining Unicode char U+1EA9 (decimal 7849)
+   defining Unicode char U+1EAA (decimal 7850)
+   defining Unicode char U+1EAB (decimal 7851)
+   defining Unicode char U+1EAC (decimal 7852)
+   defining Unicode char U+1EAD (decimal 7853)
+   defining Unicode char U+1EAE (decimal 7854)
+   defining Unicode char U+1EAF (decimal 7855)
+   defining Unicode char U+1EB0 (decimal 7856)
+   defining Unicode char U+1EB1 (decimal 7857)
+   defining Unicode char U+1EB2 (decimal 7858)
+   defining Unicode char U+1EB3 (decimal 7859)
+   defining Unicode char U+1EB4 (decimal 7860)
+   defining Unicode char U+1EB5 (decimal 7861)
+   defining Unicode char U+1EB6 (decimal 7862)
+   defining Unicode char U+1EB7 (decimal 7863)
+   defining Unicode char U+1EB8 (decimal 7864)
+   defining Unicode char U+1EB9 (decimal 7865)
+   defining Unicode char U+1EBA (decimal 7866)
+   defining Unicode char U+1EBB (decimal 7867)
+   defining Unicode char U+1EBC (decimal 7868)
+   defining Unicode char U+1EBD (decimal 7869)
+   defining Unicode char U+1EBE (decimal 7870)
+   defining Unicode char U+1EBF (decimal 7871)
+   defining Unicode char U+1EC0 (decimal 7872)
+   defining Unicode char U+1EC1 (decimal 7873)
+   defining Unicode char U+1EC2 (decimal 7874)
+   defining Unicode char U+1EC3 (decimal 7875)
+   defining Unicode char U+1EC4 (decimal 7876)
+   defining Unicode char U+1EC5 (decimal 7877)
+   defining Unicode char U+1EC6 (decimal 7878)
+   defining Unicode char U+1EC7 (decimal 7879)
+   defining Unicode char U+1EC8 (decimal 7880)
+   defining Unicode char U+1EC9 (decimal 7881)
+   defining Unicode char U+1ECA (decimal 7882)
+   defining Unicode char U+1ECB (decimal 7883)
+   defining Unicode char U+1ECC (decimal 7884)
+   defining Unicode char U+1ECD (decimal 7885)
+   defining Unicode char U+1ECE (decimal 7886)
+   defining Unicode char U+1ECF (decimal 7887)
+   defining Unicode char U+1ED0 (decimal 7888)
+   defining Unicode char U+1ED1 (decimal 7889)
+   defining Unicode char U+1ED2 (decimal 7890)
+   defining Unicode char U+1ED3 (decimal 7891)
+   defining Unicode char U+1ED4 (decimal 7892)
+   defining Unicode char U+1ED5 (decimal 7893)
+   defining Unicode char U+1ED6 (decimal 7894)
+   defining Unicode char U+1ED7 (decimal 7895)
+   defining Unicode char U+1ED8 (decimal 7896)
+   defining Unicode char U+1ED9 (decimal 7897)
+   defining Unicode char U+1EDA (decimal 7898)
+   defining Unicode char U+1EDB (decimal 7899)
+   defining Unicode char U+1EDC (decimal 7900)
+   defining Unicode char U+1EDD (decimal 7901)
+   defining Unicode char U+1EDE (decimal 7902)
+   defining Unicode char U+1EDF (decimal 7903)
+   defining Unicode char U+1EE0 (decimal 7904)
+   defining Unicode char U+1EE1 (decimal 7905)
+   defining Unicode char U+1EE2 (decimal 7906)
+   defining Unicode char U+1EE3 (decimal 7907)
+   defining Unicode char U+1EE4 (decimal 7908)
+   defining Unicode char U+1EE5 (decimal 7909)
+   defining Unicode char U+1EE6 (decimal 7910)
+   defining Unicode char U+1EE7 (decimal 7911)
+   defining Unicode char U+1EE8 (decimal 7912)
+   defining Unicode char U+1EE9 (decimal 7913)
+   defining Unicode char U+1EEA (decimal 7914)
+   defining Unicode char U+1EEB (decimal 7915)
+   defining Unicode char U+1EEC (decimal 7916)
+   defining Unicode char U+1EED (decimal 7917)
+   defining Unicode char U+1EEE (decimal 7918)
+   defining Unicode char U+1EEF (decimal 7919)
+   defining Unicode char U+1EF0 (decimal 7920)
+   defining Unicode char U+1EF1 (decimal 7921)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+1EF4 (decimal 7924)
+   defining Unicode char U+1EF5 (decimal 7925)
+   defining Unicode char U+1EF6 (decimal 7926)
+   defining Unicode char U+1EF7 (decimal 7927)
+   defining Unicode char U+1EF8 (decimal 7928)
+   defining Unicode char U+1EF9 (decimal 7929)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 11
+2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5cmr.fd
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/vncaps.tex
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-vietnamese/vietnamese.ldf
+Language: vietnamese 
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen136
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count177
+)
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Vietnamese' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for english instead on input line 36.
+
+Package babel Info: \l@vietnamese = using hyphenrules for english
+(babel)             (\language0) on input line 37.
+Package babel Info: \l@vietnam = using hyphenrules for english
+(babel)             (\language0) on input line 38.
+Loading definitions for the Vietnamese font encoding
+(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+LaTeX Font Info:    Redeclaring font encoding T5 on input line 75.
+)
+Package babel Info: Making " an active character on input line 147.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count178
+\multirow@dima=\skip50
+\bigstrutjot=\dimen137
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count179
+\Gm@cntv=\count180
+\c@Gm@tempcnt=\count181
+\Gm@bindingoffset=\dimen138
+\Gm@wd@mp=\dimen139
+\Gm@odd@mp=\dimen140
+\Gm@even@mp=\dimen141
+\Gm@layoutwidth=\dimen142
+\Gm@layoutheight=\dimen143
+\Gm@layouthoffset=\dimen144
+\Gm@layoutvoffset=\dimen145
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count182
+\LTcapwidth=\dimen146
+\LT@head=\box45
+\LT@firsthead=\box46
+\LT@foot=\box47
+\LT@lastfoot=\box48
+\LT@cols=\count183
+\LT@rows=\count184
+\c@LT@tables=\count185
+\c@LT@chunks=\count186
+\LT@p@ftn=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.sty
+Package: subfiles 2020/02/14 v1.6 Multi-file projects (package)
+
+(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+Package: import 2009/03/23  v 5.1
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip55
+\f@nch@O@elh=\skip56
+\f@nch@O@erh=\skip57
+\f@nch@O@olh=\skip58
+\f@nch@O@orh=\skip59
+\f@nch@O@elf=\skip60
+\f@nch@O@erf=\skip61
+\f@nch@O@olf=\skip62
+\f@nch@O@orf=\skip63
+)
+(/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box49
+\extrarowheight=\dimen150
+\NC@list=\toks19
+\extratabsurround=\skip64
+\backup@length=\skip65
+\ar@cellbox=\box50
+)
+\TX@col@width=\dimen151
+\TX@old@table=\dimen152
+\TX@old@col=\dimen153
+\TX@target=\dimen154
+\TX@delta=\dimen155
+\TX@cols=\count187
+\TX@ftn=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip66
+\bibsep=\skip67
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count188
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip68
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen156
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen157
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count189
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count190
+\leftroot@=\count191
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count192
+\DOTSCASE@=\count193
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count194
+\c@MaxMatrixCols=\count195
+\dotsspace@=\muskip17
+\c@parentequation=\count196
+\dspbrk@lvl=\count197
+\tag@help=\toks22
+\row@=\count198
+\column@=\count199
+\maxfields@=\count266
+\andhelp@=\toks23
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks24
+\multlinegap=\skip69
+\multlinetaggap=\skip70
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen165
+\c@nlinenum=\count267
+\TeXr@lab=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks27
+\float@box=\box53
+\@float@everytoks=\toks28
+\@floatcapt=\box54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip71
+\aftertitleunit=\skip72
+\ttl@plus=\dimen166
+\ttl@minus=\dimen167
+\ttl@toksa=\toks29
+\titlewidth=\dimen168
+\titlewidthlast=\dimen169
+\titlewidthfirst=\dimen170
+)
+(/usr/share/texlive/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+Package: dirtytalk 2010/11/21 A package making "quoting" easier
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+\c@dirtytalk@qdepth=\count269
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen171
+\WF@size=\dimen172
+\c@WF@wrappedlines=\count270
+\WF@box=\box56
+\WF@everypar=\toks30
+Package: wrapfig 2003/01/31  v 3.6
+)
+\@float@every@figure=\toks31
+
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count271
+\FV@InFile=\read3
+\FV@TabBox=\box57
+\c@FancyVerbLine=\count272
+\FV@StepNumber=\count273
+\FV@OutFile=\write3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen173
+\pgfutil@tempdimb=\dimen174
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box58
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks35
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen175
+\pgf@xa=\dimen176
+\pgf@xb=\dimen177
+\pgf@xc=\dimen178
+\pgf@y=\dimen179
+\pgf@ya=\dimen180
+\pgf@yb=\dimen181
+\pgf@yc=\dimen182
+\c@pgf@counta=\count274
+\c@pgf@countb=\count275
+\c@pgf@countc=\count276
+\c@pgf@countd=\count277
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen183
+\pgfmath@count=\count278
+\pgfmath@box=\box59
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count279
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen184
+\pgffor@skip=\dimen185
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count280
+\l__pdf_internal_box=\box60
+)
+
+LaTeX Warning: Unused global option(s):
+    [13pt].
+
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Trying to load font information for T5+ptm on input line 13
+6.
+ (/usr/share/texlive/texmf-dist/tex/latex/vntex/t5ptm.fd
+File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(99.58464pt, 441.01773pt, 56.9055pt)
+* v-part:(T,H,B)=(99.58464pt, 660.10394pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=660.10394pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=-9.68535pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen186
+\scratchbox=\box61
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen187
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks42
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+
+Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(99.58464pt, 660.10394pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=660.10394pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-9.68535pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(./bia-ngoai.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+])
+(./bia-trong.tex [1])
+Ch\uhorn \ohorn ng 1.
+(./chapters/loi-cam-on.tex) [1
+
+
+]
+Ch\uhorn \ohorn ng 2.
+(./chapters/loi-cam-doan.tex) [2
+
+] (./main.toc
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) [3
+
+])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [4] (./main.lof)
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+ [5
+
+] (./main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [6
+
+]
+Ch\uhorn \ohorn ng 3.
+(./chapters/gioi-thieu.tex [1
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 35.86003pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[2] [3]
+<Graphic/index.png, id=40, 876.27374pt x 634.37pt>
+File: Graphic/index.png Graphic file (type png)
+<use Graphic/index.png>
+Package pdftex.def Info: Graphic/index.png  used on input line 48.
+(pdftex.def)             Requested size: 597.50787pt x 432.56616pt.
+
+
+LaTeX Warning: Float too large for page by 10.6334pt on input line 49.
+
+[4
+
+
+]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+) [5
+
+]
+Ch\uhorn \ohorn ng 4.
+(./chapters/chapter01.tex [6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Overfull \hbox (25.97357pt too wide) in paragraph at lines 28--35
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--35
+
+ []
+
+[7]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
+1.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+<Graphic/491_Qƒê-TTg(1).jpg, id=55, 432.61626pt x 393.47pt>
+File: Graphic/491_Qƒê-TTg(1).jpg Graphic file (type jpg)
+<use Graphic/491_Qƒê-TTg(1).jpg>
+Package pdftex.def Info: Graphic/491_Qƒê-TTg(1).jpg  used on input line 49.
+(pdftex.def)             Requested size: 284.52756pt x 258.7904pt.
+ [8] [9
+
+]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (0.98726pt too wide) in paragraph at lines 65--65
+[]|\T5/ptm/m/n/10 TDMN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T5/ptm/m/n/10 phΩa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|\T5/ptm/m/n/10 ^^^Áng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\T5/ptm/m/n/10 b¨ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\T5/ptm/m/n/10 sÊng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]|\T5/ptm/m/n/10 B≠c
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\T5/ptm/m/n/10 Trung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\T5/ptm/m/n/10 Duy∂n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\T5/ptm/m/n/10 h£i
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\T5/ptm/m/n/10 Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]|\T5/ptm/m/n/10 T•y
+ []
+
+
+Overfull \hbox (2.85725pt too wide) in paragraph at lines 69--69
+\T5/ptm/m/n/10 Nguy∂n| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\T5/ptm/m/n/10 ^^^Êng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T5/ptm/m/n/10 Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]|\T5/ptm/m/n/10 ^^^B
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\T5/ptm/m/n/10 sÊng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\T5/ptm/m/n/10 C˚u
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\T5/ptm/m/n/10 100%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+\T5/ptm/m/n/10 (50%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+\T5/ptm/m/n/10 c˘ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]|\T5/ptm/m/n/10 100%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\T5/ptm/m/n/10 c˘ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]|\T5/ptm/m/n/10 100%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T5/ptm/m/n/10 (70%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T5/ptm/m/n/10 c˘ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]|\T5/ptm/m/n/10 100%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+\T5/ptm/m/n/10 (70%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+\T5/ptm/m/n/10 c˘ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]|\T5/ptm/m/n/10 100%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\T5/ptm/m/n/10 (50%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\T5/ptm/m/n/10 c˘ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+[]|\T5/ptm/m/n/10 100%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+\T5/ptm/m/n/10 c˘ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]|\T5/ptm/m/n/10 100%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\T5/ptm/m/n/10 (30%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\T5/ptm/m/n/10 c˘ng
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 166--166
+\T5/ptm/m/n/10 m¶m non, m®u gi°o, ti∫u
+ []
+
+
+Overfull \hbox (33.28448pt too wide) in paragraph at lines 176--176
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+[]|\T5/ptm/m/n/10 ChÒ nÊng
+ []
+
+[10
+
+]
+Overfull \hbox (0.98726pt too wide) in paragraph at lines 266--266
+[]|\T5/ptm/m/n/10 TDMN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+\T5/ptm/m/n/10 phΩa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
+[]|\T5/ptm/m/n/10 ^^^Áng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
+\T5/ptm/m/n/10 b¨ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
+\T5/ptm/m/n/10 sÊng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+[]|\T5/ptm/m/n/10 B≠c
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+\T5/ptm/m/n/10 Trung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+[]|\T5/ptm/m/n/10 Duy∂n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+\T5/ptm/m/n/10 h£i
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+\T5/ptm/m/n/10 Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]|\T5/ptm/m/n/10 T•y
+ []
+
+
+Overfull \hbox (2.85725pt too wide) in paragraph at lines 270--270
+\T5/ptm/m/n/10 Nguy∂n| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
+[]|\T5/ptm/m/n/10 ^^^Êng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
+\T5/ptm/m/n/10 Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\T5/ptm/m/n/10 ^^^B
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\T5/ptm/m/n/10 sÊng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\T5/ptm/m/n/10 C˚u
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 279--279
+[]|\T5/ptm/m/n/10 Thu nh™p bºnh qu•n ^^_¶u
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+[]|\T5/ptm/m/n/10 CÏ cßu lao
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 301--301
+[]|\T5/ptm/m/n/10 T^^[ lª lao ^^_Îng trong ^^_Î
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 311--311
+[]|\T5/ptm/m/n/10 Hºnh th˘c tÍ
+ []
+
+[11]
+Overfull \hbox (0.98726pt too wide) in paragraph at lines 334--334
+[]|\T5/ptm/m/n/10 TDMN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
+\T5/ptm/m/n/10 phΩa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+[]|\T5/ptm/m/n/10 ^^^Áng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+\T5/ptm/m/n/10 b¨ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+\T5/ptm/m/n/10 sÊng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\T5/ptm/m/n/10 B≠c
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+\T5/ptm/m/n/10 Trung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--337
+[]|\T5/ptm/m/n/10 Duy∂n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--337
+\T5/ptm/m/n/10 h£i
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--337
+\T5/ptm/m/n/10 Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+[]|\T5/ptm/m/n/10 T•y
+ []
+
+
+Overfull \hbox (2.85725pt too wide) in paragraph at lines 338--338
+\T5/ptm/m/n/10 Nguy∂n| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
+[]|\T5/ptm/m/n/10 ^^^Êng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
+\T5/ptm/m/n/10 Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+[]|\T5/ptm/m/n/10 ^^^B
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+\T5/ptm/m/n/10 sÊng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+\T5/ptm/m/n/10 C˚u
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 358--358
+[]|\T5/ptm/m/n/10 14.2. T^^[ lª hÂc sinh tËt
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 435--435
+[]|\T5/ptm/m/n/10 17.3. KhÊng c‚ c°c ho§t
+ []
+
+[12] [13] [14]
+Overfull \hbox (0.98726pt too wide) in paragraph at lines 480--480
+[]|\T5/ptm/m/n/10 TDMN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 480--480
+\T5/ptm/m/n/10 phΩa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[]|\T5/ptm/m/n/10 ^^^Áng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+\T5/ptm/m/n/10 b¨ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+\T5/ptm/m/n/10 sÊng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--482
+[]|\T5/ptm/m/n/10 B≠c
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--482
+\T5/ptm/m/n/10 Trung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]|\T5/ptm/m/n/10 Duy∂n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+\T5/ptm/m/n/10 h£i
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+\T5/ptm/m/n/10 Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
+[]|\T5/ptm/m/n/10 T•y
+ []
+
+
+Overfull \hbox (2.85725pt too wide) in paragraph at lines 484--484
+\T5/ptm/m/n/10 Nguy∂n| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+[]|\T5/ptm/m/n/10 ^^^Êng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+\T5/ptm/m/n/10 Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
+[]|\T5/ptm/m/n/10 ^^^B
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
+\T5/ptm/m/n/10 sÊng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
+\T5/ptm/m/n/10 C˚u
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 504--504
+[]|\T5/ptm/m/n/10 18.2. C‚ ^^_ı c°c tÍ ch˘c
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 515--515
+\T5/ptm/m/n/10 x¢ ^^_§t ti∂u chu©n ^^Ptrong
+ []
+
+[15
+
+]
+<Graphic/491_Qƒê-TTg.jpg, id=82, 2530.45375pt x 1336.995pt>
+File: Graphic/491_Qƒê-TTg.jpg Graphic file (type jpg)
+<use Graphic/491_Qƒê-TTg.jpg>
+Package pdftex.def Info: Graphic/491_Qƒê-TTg.jpg  used on input line 550.
+(pdftex.def)             Requested size: 682.86613pt x 360.78947pt.
+
+Overfull \hbox (22.76219pt too wide) in paragraph at lines 550--552
+[][]
+ []
+
+[16
+
+
+ <./Graphic/491_Qƒê-TTg.jpg>]
+<Graphic/1980.jpg, id=86, 2530.45375pt x 1256.695pt>
+File: Graphic/1980.jpg Graphic file (type jpg)
+<use Graphic/1980.jpg>
+Package pdftex.def Info: Graphic/1980.jpg  used on input line 556.
+(pdftex.def)             Requested size: 682.86613pt x 339.12042pt.
+
+Overfull \hbox (22.76219pt too wide) in paragraph at lines 556--558
+[][]
+ []
+
+[17
+
+ <./Graphic/1980.jpg>]
+<Graphic/Vitri-TP.jpg, id=91, 150.5625pt x 150.5625pt>
+File: Graphic/Vitri-TP.jpg Graphic file (type jpg)
+<use Graphic/Vitri-TP.jpg>
+Package pdftex.def Info: Graphic/Vitri-TP.jpg  used on input line 572.
+(pdftex.def)             Requested size: 284.52756pt x 284.58528pt.
+<Graphic/Vitri-Huyen.jpg, id=92, 150.5625pt x 150.5625pt>
+File: Graphic/Vitri-Huyen.jpg Graphic file (type jpg)
+<use Graphic/Vitri-Huyen.jpg>
+Package pdftex.def Info: Graphic/Vitri-Huyen.jpg  used on input line 574.
+(pdftex.def)             Requested size: 284.52756pt x 284.58528pt.
+ [18
+
+ <./Graphic/Vitri-TP.jpg>]
+<Graphic/spatial-structure.jpg, id=96, 140.525pt x 68.255pt>
+File: Graphic/spatial-structure.jpg Graphic file (type jpg)
+<use Graphic/spatial-structure.jpg>
+Package pdftex.def Info: Graphic/spatial-structure.jpg  used on input line 584.
+
+(pdftex.def)             Requested size: 426.79134pt x 207.33484pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 594--595
+
+ []
+
+[19 <./Graphic/Vitri-Huyen.jpg>] [20 <./Graphic/spatial-structure.jpg>]
+<Graphic/Select.jpg, id=103, 150.5625pt x 150.5625pt>
+File: Graphic/Select.jpg Graphic file (type jpg)
+<use Graphic/Select.jpg>
+Package pdftex.def Info: Graphic/Select.jpg  used on input line 617.
+(pdftex.def)             Requested size: 426.79134pt x 426.87677pt.
+)
+[21] [22 <./Graphic/Select.jpg>]
+Ch\uhorn \ohorn ng 5.
+(./chapters/chapter02.tex
+Overfull \hbox (4.5945pt too wide) in paragraph at lines 22--22
+[]|[]| 
+ []
+
+
+Overfull \hbox (3.37175pt too wide) in paragraph at lines 35--35
+[]|[]| 
+ []
+
+
+Overfull \vbox (36.0pt too high) detected at line 115
+ []
+
+
+Overfull \hbox (49.14175pt too wide) in paragraph at lines 115--115
+[]|[]| 
+ []
+
+[23
+
+] [24] [25] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[]|\T5/ptm/m/it/10 1.1. Nghi∂n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]|\T5/ptm/m/n/10 1.2. Quy
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 140--140
+[]\T5/ptm/m/n/10 5. Quy ho§ch x•y d¸ng x¢ nÊng thÊn
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 140--140
+[]\T5/ptm/m/n/10 Mˆc 3. QUY HOÑCH XÖY D‹NG
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]|\T5/ptm/m/n/10 1.1. Quy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T5/ptm/m/n/10 ho§ch: Chø
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 148--148
+\T5/ptm/m/n/10 ti∂u s˚ dˆng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+[]|\T5/ptm/m/n/10 1.2. Quy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+\T5/ptm/m/n/10 ho§ch:V‡ trΩ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+[]\T5/ptm/m/n/10 IMPERATIVE 01: LIM-ITS TO
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 155--155
+[]\T5/ptm/m/n/10 SMART LO-CA-TION AND LINK-AGE
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 155--155
+[]\T5/ptm/m/n/10 SMART LO-CA-TION AND LINK-AGE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\T5/ptm/m/n/10 2.1. Quy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\T5/ptm/m/n/10 ho§ch: Ph•n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\T5/ptm/m/n/10 cßp giao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]|\T5/ptm/m/n/10 2.2. Quy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\T5/ptm/m/n/10 ho§ch: M™t
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 170--170
+[]\T5/ptm/m/n/10 NPD PRE-REQ-UI-SITE: CON-NECTED
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[]\T5/ptm/m/n/10 NPD CREDIT: CON-NECTED AND
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+[]|\T5/ptm/m/n/10 2.3. Quy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+\T5/ptm/m/n/10 ho§ch: Quy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+\T5/ptm/m/n/10 ho§ch hª
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+\T5/ptm/m/n/10 thËng giao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+\T5/ptm/m/n/10 thÊng cÊng
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 175--175
+[]\T5/ptm/m/n/10 LT CREDIT: AC-CESS TO QUAL-ITY
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 175--175
+[]\T5/ptm/m/n/10 IMPERATIVE 16: UNI-VER-SAL AC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]|\T5/ptm/m/n/10 2.4. Quy
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 178--178
+\T5/ptm/m/n/10 ho§ch: M§ng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+[]\T5/ptm/m/n/10 NPD CREDIT: CON-NECTED AND
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\T5/ptm/m/n/10 NPD PRE-REQ-UI-SITE: WALK-A-BLE
+ []
+
+
+Overfull \hbox (9.47452pt too wide) in paragraph at lines 187--187
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+[]|\T5/ptm/m/n/10 3.1. Giao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+\T5/ptm/m/n/10 thÊng: Y∂u
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 188--188
+\T5/ptm/m/n/10 c¶u kˇ thu™t
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 193--193
+\T5/ptm/m/n/10 Y∂u c¶u kˇ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+\T5/ptm/m/n/10 thu™t cÊng
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 198--198
+\T5/ptm/m/n/10 Y∂u c¶u kˇ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+\T5/ptm/m/n/10 thu™t cÊng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+[]|\T5/ptm/m/n/10 3.4. X˚ l˛
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+\T5/ptm/m/n/10 chßt th£i,
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 203--203
+\T5/ptm/m/n/10 n˜Óc th£i v†
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+\T5/ptm/m/n/10 nghæa trang:
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 203--203
+\T5/ptm/m/n/10 Y∂u c¶u kˇ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+\T5/ptm/m/n/10 thu™t x˚ l˛
+ []
+
+
+Overfull \hbox (1.6145pt too wide) in paragraph at lines 207--207
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+[]|\T5/ptm/m/n/10 4.1. Quy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+\T5/ptm/m/n/10 ho§ch: Chø
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+[]|\T5/ptm/m/n/10 4.2. Quy
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 212--212
+\T5/ptm/m/n/10 ho§ch: Trung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+[]|\T5/ptm/m/n/10 NPD CREDIT: NEIGH-BOR-HOOD
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 223--223
+[]\T5/ptm/m/n/10 G≠n li∑n vÓi khÊng gian xanh,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+\T5/ptm/m/n/10 th˜Ïng m§i
+ []
+
+
+Overfull \hbox (11.86452pt too wide) in paragraph at lines 231--231
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]|\T5/ptm/m/n/10 5.1. Quy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\T5/ptm/m/n/10 ho§ch: Chø
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]|\T5/ptm/m/n/10 5.2. Quy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+\T5/ptm/m/n/10 ho§ch: Ph•n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\T5/ptm/m/n/10 5.3. Thi∏t
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 242--242
+\T5/ptm/m/n/10 k∏: Thi∏t k∏
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+\T5/ptm/m/n/10 khÊng gian
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+\T5/ptm/m/n/10 xanh h˜Óng
+ []
+
+
+Overfull \hbox (28.36452pt too wide) in paragraph at lines 246--246
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+[]|\T5/ptm/m/n/10 6.1. Quy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+\T5/ptm/m/n/10 ho§ch: Ph•n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+[]|\T5/ptm/m/n/10 6.2. Thi∏t
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+\T5/ptm/m/n/10 k∏: CÊng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+\T5/ptm/m/n/10 khÊng gian
+ []
+
+[27
+
+] [28] [29] [30] [31] [32] [33] [34] [35]
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+[36
+
+]
+<Graphic/TC1.1.jpg, id=155, 150.5625pt x 150.5625pt>
+File: Graphic/TC1.1.jpg Graphic file (type jpg)
+<use Graphic/TC1.1.jpg>
+Package pdftex.def Info: Graphic/TC1.1.jpg  used on input line 288.
+(pdftex.def)             Requested size: 426.79134pt x 426.87677pt.
+<Graphic/TC1.1-1.jpg, id=156, 150.5625pt x 150.5625pt>
+File: Graphic/TC1.1-1.jpg Graphic file (type jpg)
+<use Graphic/TC1.1-1.jpg>
+Package pdftex.def Info: Graphic/TC1.1-1.jpg  used on input line 291.
+(pdftex.def)             Requested size: 426.79134pt x 426.87677pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37
+
+ <./Graphic/TC1.1.jpg>] [38
+
+]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) detected at line 309
+ []
+
+[39
+
+] [40] [41]
+Underfull \vbox (badness 10000) detected at line 319
+ []
+
+[42
+
+] [43] [44]
+Overfull \hbox (10.97357pt too wide) in paragraph at lines 324--331
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--335
+
+ []
+
+
+Overfull \hbox (10.97357pt too wide) in paragraph at lines 339--346
+ [][] 
+ []
+
+[45
+
+]
+Overfull \hbox (10.97357pt too wide) in paragraph at lines 357--367
+ [][] 
+ []
+
+<Graphic/Sector-Residentiel.jpg, id=186, 150.5625pt x 220.825pt>
+File: Graphic/Sector-Residentiel.jpg Graphic file (type jpg)
+<use Graphic/Sector-Residentiel.jpg>
+Package pdftex.def Info: Graphic/Sector-Residentiel.jpg  used on input line 370
+.
+(pdftex.def)             Requested size: 426.79134pt x 626.08595pt.
+[46
+
+] [47 <./Graphic/Sector-Residentiel.jpg>]
+Overfull \hbox (10.97357pt too wide) in paragraph at lines 376--386
+ [][] 
+ []
+
+<Graphic/TC3.jpg, id=194, 150.5625pt x 220.825pt>
+File: Graphic/TC3.jpg Graphic file (type jpg)
+<use Graphic/TC3.jpg>
+Package pdftex.def Info: Graphic/TC3.jpg  used on input line 387.
+(pdftex.def)             Requested size: 426.79134pt x 626.08595pt.
+[48
+
+] [49 <./Graphic/TC3.jpg>]
+<Graphic/TC5-QH-KTT.jpg, id=201, 150.5625pt x 220.825pt>
+File: Graphic/TC5-QH-KTT.jpg Graphic file (type jpg)
+<use Graphic/TC5-QH-KTT.jpg>
+Package pdftex.def Info: Graphic/TC5-QH-KTT.jpg  used on input line 395.
+(pdftex.def)             Requested size: 426.79134pt x 626.08595pt.
+ [50
+
+] [51 <./Graphic/TC5-QH-KTT.jpg>]
+<Graphic/TC6-QH-Xanh.jpg, id=208, 150.5625pt x 220.825pt>
+File: Graphic/TC6-QH-Xanh.jpg Graphic file (type jpg)
+<use Graphic/TC6-QH-Xanh.jpg>
+Package pdftex.def Info: Graphic/TC6-QH-Xanh.jpg  used on input line 401.
+(pdftex.def)             Requested size: 426.79134pt x 626.08595pt.
+ [52
+
+]
+[53 <./Graphic/TC6-QH-Xanh.jpg>]) [54
+
+]
+Ch\uhorn \ohorn ng 6.
+(./chapters/chapter03.tex) [55
+
+]
+Ch\uhorn \ohorn ng 7.
+(./chapters/chapter04.tex) (./main.bbl [56
+
+]) [57
+
+] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 11310 strings out of 482671
+ 192309 string characters out of 5955618
+ 465454 words of memory out of 5000000
+ 26201 multiletter control sequences out of 15000+600000
+ 563934 words of font info for 53 fonts, out of 8000000 for 9000
+ 264 hyphenation exceptions out of 8191
+ 43i,13n,52p,4685b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/us
+r/share/texlive/texmf-dist/fonts/enc/dvips/vntex/t5.enc}</usr/share/texlive/tex
+mf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/ur
+wvn/utmr8v.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/urwvn/utmri8v.p
+fb>
+Output written on main.pdf (65 pages, 10367263 bytes).
+PDF statistics:
+ 247 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
